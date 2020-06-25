@@ -191,5 +191,14 @@ body{
 
 	
 }
+@media (max-width: 1028px){
+	#header{
+		text-align:center;
+	}
+	.carousel-item{
+		width:75%;
+		height:70%;
+	}
+}
 
 
