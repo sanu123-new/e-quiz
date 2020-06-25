@@ -194,17 +194,3 @@ body{
 
 
 }
-@media (max-width: 1028px){
-	#header{
-		text-align:center;
-		width:20%;
-		height:30%
-	}
-	#carouselExampleControls{
-		height:50px;
-		width:30%
-	}
-	
-}
-
-
