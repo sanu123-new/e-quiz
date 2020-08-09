@@ -1,9 +1,9 @@
 body{
     text-align: center;
-	
+  background-color:#863CF;	
 }
 #header{
-    color: white;
+    
     background-color:#863CF;
     font-size: medium;
     font-weight: 1rem;
@@ -38,7 +38,7 @@ body{
     text-align: center;
 }
 #con{
-    
+      background-color:#863CF;
     text-align: center;
 	color: white;
 	
@@ -47,7 +47,7 @@ body{
 	margin-bottom: 5%;
 }
 .p{
-	text-align: left;
+	text-align: center;
 	margin: 10px 0px;
 	
 
