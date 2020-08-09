@@ -1,10 +1,9 @@
 body{
     text-align: center;
-	
 }
 #header{
     color: white;
-    background-color: purple;
+    background-color: #e7305b;
     font-size: medium;
     font-weight: 1rem;
     font-family: ;
@@ -21,7 +20,7 @@ body{
 }
 .f{
     padding: 4% 7%;
-    color: purple;
+    color: #e7305b ;
     text-align: center;
 }
 .n{
@@ -38,7 +37,7 @@ body{
     text-align: center;
 }
 #con{
-    background-color: purple;
+    background-color: #e7305b;
     text-align: center;
 	color: white;
 	
@@ -59,7 +58,7 @@ body{
 
 #contact{
     
-    background-color:purple ;
+    background-color:#e7305b ;
 }
 .myButton {
 	box-shadow: 0px 10px 14px -7px #276873;
