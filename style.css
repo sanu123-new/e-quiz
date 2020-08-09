@@ -1,9 +1,10 @@
 body{
     text-align: center;
+	background-color: #681EFC;
 }
 #header{
     color: white;
-    background-color: #e7305b;
+    
     font-size: medium;
     font-weight: 1rem;
     font-family: ;
@@ -37,7 +38,7 @@ body{
     text-align: center;
 }
 #con{
-    background-color: #e7305b;
+    
     text-align: center;
 	color: white;
 	
